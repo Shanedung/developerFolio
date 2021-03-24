@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "78bbc7753a0b3b27ce62385c5d44da0d",
+    "revision": "71003f348f1ecad1a05388be91fc8551",
     "url": "/developerFolio/index.html"
   },
   {
-    "revision": "3a9430a77c3683510538",
+    "revision": "f67e2a110370b9c1101c",
     "url": "/developerFolio/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "7aacc93bb13b5bcc1cc1",
+    "revision": "3e577cf0a2b5e24788b1",
     "url": "/developerFolio/static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "af9b60c234c9bab77d78",
+    "revision": "608a48c4ba6f58a3fdc0",
     "url": "/developerFolio/static/css/main.42d6baf3.chunk.css"
   },
   {
-    "revision": "e2545affc43d8a0347a1",
-    "url": "/developerFolio/static/js/2.062dc7ac.chunk.js"
+    "revision": "dc8a5c0f8081c0d50d9d",
+    "url": "/developerFolio/static/js/2.4f83e06b.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/developerFolio/static/js/2.062dc7ac.chunk.js.LICENSE.txt"
+    "url": "/developerFolio/static/js/2.4f83e06b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3a9430a77c3683510538",
-    "url": "/developerFolio/static/js/3.13553e10.chunk.js"
+    "revision": "f67e2a110370b9c1101c",
+    "url": "/developerFolio/static/js/3.150aeebf.chunk.js"
   },
   {
-    "revision": "7aacc93bb13b5bcc1cc1",
-    "url": "/developerFolio/static/js/4.2eade62e.chunk.js"
+    "revision": "3e577cf0a2b5e24788b1",
+    "url": "/developerFolio/static/js/4.02c26054.chunk.js"
   },
   {
-    "revision": "af9b60c234c9bab77d78",
-    "url": "/developerFolio/static/js/main.f495e8a4.chunk.js"
+    "revision": "608a48c4ba6f58a3fdc0",
+    "url": "/developerFolio/static/js/main.c64eec30.chunk.js"
   },
   {
-    "revision": "27e41f37112c8dcf11ca",
-    "url": "/developerFolio/static/js/runtime-main.db8f9aef.js"
+    "revision": "b3f4a2dd08bd2d951fd0",
+    "url": "/developerFolio/static/js/runtime-main.da052460.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -76,16 +76,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/media/manOnTable.52be3144.svg"
   },
   {
-    "revision": "829ad0a1deef4d7295adfecdf12df2be",
-    "url": "/developerFolio/static/media/nextuLogo.829ad0a1.webp"
+    "revision": "70d5acc99cb2aeb6dc66aa17e309c9f0",
+    "url": "/developerFolio/static/media/power-bi-1.70d5acc9.jpeg"
   },
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
     "url": "/developerFolio/static/media/pwaLogo.ee62cb58.webp"
-  },
-  {
-    "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
-    "url": "/developerFolio/static/media/saayaHealthLogo.25018d29.webp"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
